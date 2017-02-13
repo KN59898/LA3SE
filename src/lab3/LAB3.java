@@ -11,6 +11,10 @@ package lab3;
  */
 public class LAB3 {
 
+    public static void addFeatureA()
+    {
+        System.out.println("Feature A");
+    }
     public static void addFeatureB(){
     System.out.println("Feature B added");
 }
